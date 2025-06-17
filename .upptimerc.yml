@@ -6,8 +6,10 @@ sites:
   - name: Hypereds
     url: https://www.hypereds.com
     method: GET
+    icon: https://www.hypereds.com/favicon.ico
   - name: gestion de riesgos
     url: https://www.gestionderiesgosmineros.com
+    icon: https://www.gestionderiesgosmineros.com/favicon.ico
   - name: Imac
     url: https://www.interelectricasimacsas.com
   
