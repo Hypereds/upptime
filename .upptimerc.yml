@@ -19,7 +19,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "🚦 **Hyperds Cloud Service Status**"
-introMessage: "🔄 This page shows the current status of our SaaS services. The information is updated automatically every 5 minutes. 🛠️ If there is any maintenance or incident, we will report it here in real time."
+  introMessage: "🔄 This page shows the current status of our SaaS services. The information is updated automatically every 5 minutes. 🛠️ If there is any maintenance or incident, we will report it here in real time."
   navbar:
     - title: Status
       href: /
