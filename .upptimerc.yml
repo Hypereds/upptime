@@ -4,11 +4,11 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Hypereds
-    url: https://www.hypereds.com/
+    url: https://www.hypereds.com
   - name: gestion de riesgos
-    url: https://www.gestionderiesgosmineros.com/
+    url: https://www.gestionderiesgosmineros.com
   - name: Imac
-    url: https://www.interelectricasimacsas.com/
+    url: https://www.interelectricasimacsas.com
   
 
 status-website:
@@ -18,8 +18,8 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "🚦 **Hyperds Cloud Service Status**"
+introMessage: "🔄 This page shows the current status of our SaaS services. The information is updated automatically every 5 minutes. 🛠️ If there is any maintenance or incident, we will report it here in real time."
   navbar:
     - title: Status
       href: /
