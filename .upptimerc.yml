@@ -12,6 +12,7 @@ sites:
     icon: https://www.gestionderiesgosmineros.com/favicon.ico
   - name: Imac
     url: https://www.interelectricasimacsas.com
+    icon: https://www.interelectricasimacsas.com/assets/tower.ico
 
 skipDeleteIssues: true
 
