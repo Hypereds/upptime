@@ -1,62 +1,62 @@
 [
   {
     "name": "Hypereds",
-    "url": "https://www.hypereds.com/",
+    "url": "https://www.hypereds.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.hypereds.com.ico",
     "slug": "hypereds",
     "status": "down",
-    "uptime": "2.94%",
-    "uptimeDay": "2.94%",
-    "uptimeWeek": "2.94%",
-    "uptimeMonth": "2.94%",
-    "uptimeYear": "2.94%",
+    "uptime": "0.11%",
+    "uptimeDay": "0.11%",
+    "uptimeWeek": "0.11%",
+    "uptimeMonth": "0.11%",
+    "uptimeYear": "0.11%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-17": 0
+      "2025-06-17": 14
     }
   },
   {
     "name": "gestion de riesgos",
-    "url": "https://www.gestionderiesgosmineros.com/",
+    "url": "https://www.gestionderiesgosmineros.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.gestionderiesgosmineros.com.ico",
     "slug": "gestion-de-riesgos",
     "status": "down",
-    "uptime": "1.94%",
-    "uptimeDay": "1.94%",
-    "uptimeWeek": "1.94%",
-    "uptimeMonth": "1.94%",
-    "uptimeYear": "1.94%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-17": 0
+      "2025-06-17": 14
     }
   },
   {
     "name": "Imac",
-    "url": "https://www.interelectricasimacsas.com/",
+    "url": "https://www.interelectricasimacsas.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.interelectricasimacsas.com.ico",
     "slug": "imac",
     "status": "down",
-    "uptime": "10.16%",
-    "uptimeDay": "10.16%",
-    "uptimeWeek": "10.16%",
-    "uptimeMonth": "10.16%",
-    "uptimeYear": "10.16%",
+    "uptime": "0.12%",
+    "uptimeDay": "0.12%",
+    "uptimeWeek": "0.12%",
+    "uptimeMonth": "0.12%",
+    "uptimeYear": "0.12%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-17": 0
+      "2025-06-17": 14
     }
   }
 ]
